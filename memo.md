@@ -27,7 +27,7 @@ C:\Users\user1\sample1>python -m venv .venv
 ### 仮想環境操作用に Bat ファイル を作成する。
 
 ```bat
-# 仮想環境のルートに _activate.bat を作成
+# 仮想環境のルートに _activate.baC:\Users\shins\mydev\db\SQLAlchemy\t1t を作成
 # 仮想環境に切り替える
 %~dp0.venv\Scripts\activate.bat
 ```
